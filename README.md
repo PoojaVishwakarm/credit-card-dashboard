@@ -4,18 +4,18 @@ This project includes Credit Card Customer and Transaction Dashboards built usin
 
 ## Features
 # 1. Credit Card Customer Dashboard
--Customer Demographics: Analyzes customer distribution by age, education, job type, marital status, and salary group.
--Revenue & Income Tracking: Displays total revenue, income, and interest earned across different customer segments.
--Card Segmentation: Classifies users into Platinum, Gold, Silver, and Blue card types for targeted insights.
--Geographical Insights: Identifies top states contributing to revenue and transactions.
--Customer Behavior: Tracks dependent count, loyalty levels, and financial behavior trends.
+- Customer Demographics: Analyzes customer distribution by age, education, job type, marital status, and salary group.
+- Revenue & Income Tracking: Displays total revenue, income, and interest earned across different customer segments.
+- Card Segmentation: Classifies users into Platinum, Gold, Silver, and Blue card types for targeted insights.
+- Geographical Insights: Identifies top states contributing to revenue and transactions.
+- Customer Behavior: Tracks dependent count, loyalty levels, and financial behavior trends.
 
 # 2. Credit Card Transaction Dashboard
--Transaction Analysis: Tracks total transactions, transaction amounts, and revenue generated over time.
--Expenditure Type Analysis: Categorizes spending on bills, entertainment, fuel, groceries, food, and travel.
--Payment Method Breakdown: Compares revenue from chip, swipe, and online transactions.
--Quarterly Revenue & Transaction Trends: Visualizes seasonal trends in transaction count and revenue.
--Card Type & Interest Analysis: Breaks down revenue, interest earned, and annual fees by card type.
+- Transaction Analysis: Tracks total transactions, transaction amounts, and revenue generated over time.
+- Expenditure Type Analysis: Categorizes spending on bills, entertainment, fuel, groceries, food, and travel.
+- Payment Method Breakdown: Compares revenue from chip, swipe, and online transactions.
+- Quarterly Revenue & Transaction Trends: Visualizes seasonal trends in transaction count and revenue.
+- Card Type & Interest Analysis: Breaks down revenue, interest earned, and annual fees by card type.
 
 ## Tech Stack
 Database: PostgreSQL
