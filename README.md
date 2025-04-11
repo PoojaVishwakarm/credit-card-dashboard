@@ -40,3 +40,8 @@ Refresh data sources and visualize insights.
 Business analysts and financial teams can use this dashboard to gain insights into customer behavior, transaction patterns, and revenue trends.
 Helps in optimizing marketing strategies, fraud detection, and risk assessment based on data-driven insights.
 
+# Credit Card Transaction Dashboard
+https://app.powerbi.com/groups/me/reports/29df4f46-95d0-4d72-8d4a-894df49d0264/bc21615f1409ac4006a0?experience=power-bi
+
+ # Credit Card Customer Dashboard
+https://app.powerbi.com/groups/me/reports/29df4f46-95d0-4d72-8d4a-894df49d0264/5372b67a86d35bbd9ae7?experience=power-bi
