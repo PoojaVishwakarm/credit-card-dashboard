@@ -4,6 +4,8 @@ This project includes Credit Card Customer and Transaction Dashboards built usin
 
 ## Features
 # 1. Credit Card Customer Dashboard
+https://app.powerbi.com/groups/me/reports/29df4f46-95d0-4d72-8d4a-894df49d0264/5372b67a86d35bbd9ae7?experience=power-bi
+
 - Customer Demographics: Analyzes customer distribution by age, education, job type, marital status, and salary group.
 - Revenue & Income Tracking: Displays total revenue, income, and interest earned across different customer segments.
 - Card Segmentation: Classifies users into Platinum, Gold, Silver, and Blue card types for targeted insights.
@@ -11,6 +13,8 @@ This project includes Credit Card Customer and Transaction Dashboards built usin
 - Customer Behavior: Tracks dependent count, loyalty levels, and financial behavior trends.
 
 # 2. Credit Card Transaction Dashboard
+https://app.powerbi.com/groups/me/reports/29df4f46-95d0-4d72-8d4a-894df49d0264/bc21615f1409ac4006a0?experience=power-bi
+
 - Transaction Analysis: Tracks total transactions, transaction amounts, and revenue generated over time.
 - Expenditure Type Analysis: Categorizes spending on bills, entertainment, fuel, groceries, food, and travel.
 - Payment Method Breakdown: Compares revenue from chip, swipe, and online transactions.
@@ -40,8 +44,3 @@ Refresh data sources and visualize insights.
 Business analysts and financial teams can use this dashboard to gain insights into customer behavior, transaction patterns, and revenue trends.
 Helps in optimizing marketing strategies, fraud detection, and risk assessment based on data-driven insights.
 
-# Credit Card Transaction Dashboard
-https://app.powerbi.com/groups/me/reports/29df4f46-95d0-4d72-8d4a-894df49d0264/bc21615f1409ac4006a0?experience=power-bi
-
- # Credit Card Customer Dashboard
-https://app.powerbi.com/groups/me/reports/29df4f46-95d0-4d72-8d4a-894df49d0264/5372b67a86d35bbd9ae7?experience=power-bi
